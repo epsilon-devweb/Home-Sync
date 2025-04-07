@@ -4,7 +4,6 @@
 @use '../components/footer/footer' as *;
 @use '../components/layout/layout' as *;
 @use '../components/memberNavbar/memberNavbar' as *;
-@use '../components/userProfil/userProfil' as *;
-@use '../components/adminProfil/adminProfil' as *;
+@use '../pages/userProfil/userProfil' as *;
+@use '../pages/adminProfil/adminProfil' as *;
 @use '../pages/Error/error404' as *;
-
